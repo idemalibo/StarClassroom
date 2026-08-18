@@ -20,6 +20,7 @@
 
 - 完整工程在 [StarStudyApp](C:/Users/Admin/Documents/Codex/2026-08-15/new-chat/outputs/StarStudyApp) 文件夹（Android Studio 工程，含 WebView 外壳、相机拍照支持、屏幕常亮）。
 - 用 Android Studio 打开该文件夹 → 同步 → Build APK → 传到平板安装，详细步骤见 [StarStudyApp/README.md](C:/Users/Admin/Documents/Codex/2026-08-15/new-chat/outputs/StarStudyApp/README.md)。
+- 当前版本 v1.1（含 v3.4 更新：快速完成任务、追加10分钟等）。
 - 打包后：离线运行、数据存 App 本地、任务拍照验证可用、防挂机照常生效。
 
 ## 家长必读
