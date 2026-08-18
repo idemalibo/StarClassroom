@@ -1329,7 +1329,7 @@ function finishTaskEarly(){
     }
     $('focusOverlay').classList.remove('show');
     $('celebrateTitle').textContent='中途完成！';
-    $('celebrateMsg').textContent=(task?`「${task.emoji} ${task.name}」已做完啦！`:'专注时段结束！')+\n  获得 ⭐${earnedStars}（专注时长）\n  记得给成果拍照验证哦 📸`;
+    $('celebrateMsg').textContent=(task?`「${task.emoji} ${task.name}」已做完啦！`:'专注时段结束！')+'\\n  获得 ⭐'+earnedStars+'（专注时长）\\n  记得给成果拍照验证哦 📸';
     $('gainStars').textContent=earnedStars;
     $('gainXp').textContent=earnedStars;
     $('celebrate').classList.add('show');
