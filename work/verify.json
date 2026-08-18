@@ -1,0 +1,48 @@
+{
+  "errors": [],
+  "home": {
+    "overflowX": false,
+    "badgeCount": 60,
+    "img": {
+      "naturalWidth": 500,
+      "naturalHeight": 656
+    },
+    "allTasksNeedPhoto": true
+  },
+  "journalItems": 1,
+  "taskRowButtons": [
+    2,
+    2
+  ],
+  "newTaskNeedPhoto": true,
+  "autoPaused": true,
+  "checkInShown": 1,
+  "checkInGone": 0,
+  "focusClosed": 0,
+  "celebrate": 1,
+  "celebrateMsg": "「📖 拍照验证测试」完成啦！ 记得给任务成果拍照验证哦 📸",
+  "photoModalOpenedAfterCelebrate": 1,
+  "photoModalClosed": 0,
+  "verificationWithPhoto": true,
+  "taskNotDoneYet": true,
+  "verifyListShown": 1,
+  "thumbLoaded": true,
+  "taskDoneAfterApprove": true,
+  "verifiedTasks": 1,
+  "letterModal": 1,
+  "letterTitle": "致15岁的宝贝",
+  "stateAfter": {
+    "journal": 1,
+    "letters": 1,
+    "verifications": 1,
+    "badges": [
+      "first",
+      "verify1",
+      "letter1"
+    ],
+    "streak": 1,
+    "sessions": 1,
+    "tasksDone": 1,
+    "totalBadges": 60
+  }
+}

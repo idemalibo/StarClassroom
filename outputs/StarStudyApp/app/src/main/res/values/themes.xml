@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.StarStudy" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFC2DD</item>
+        <item name="android:navigationBarColor">#FFF6FB</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

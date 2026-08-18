@@ -1,0 +1,25 @@
+# Node / build
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large assets (keep outputs/ but ignore raw assets if needed)
+# outputs/assets/*.png

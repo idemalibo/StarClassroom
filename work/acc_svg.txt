@@ -1,0 +1,32 @@
+<g class="acc-head bow" data-part="bow">
+  <path d="M138 86 C112 56 80 62 66 86 C92 94 116 94 138 86 Z" fill="#ff8fb8"/>
+  <path d="M138 86 C164 56 196 62 210 86 C184 94 160 94 138 86 Z" fill="#ff8fb8"/>
+  <circle cx="138" cy="86" r="10" fill="#ff6fae"/>
+  <path d="M138 96 C130 116 124 136 130 152 C136 144 142 138 142 120 C142 110 141 102 138 96 Z" fill="#ff8fb8"/>
+</g>
+<g class="acc-head cat" data-part="cat">
+  <path d="M205 54 L185 6 L242 44 Z" fill="#57a5b1"/>
+  <path d="M213 46 L194 18 L230 44 Z" fill="#ffc7d9"/>
+  <path d="M295 54 L315 6 L258 44 Z" fill="#57a5b1"/>
+  <path d="M287 46 L306 18 L270 44 Z" fill="#ffc7d9"/>
+</g>
+<g class="acc-head headphone" data-part="headphone">
+  <path d="M150 80 C150 18 350 18 350 80" fill="none" stroke="#6d5b9e" stroke-width="18" stroke-linecap="round"/>
+  <rect x="132" y="76" width="28" height="60" rx="14" fill="#58c9bd"/>
+  <rect x="340" y="76" width="28" height="60" rx="14" fill="#58c9bd"/>
+  <circle cx="146" cy="106" r="7" fill="#fff" opacity=".65"/>
+  <circle cx="354" cy="106" r="7" fill="#fff" opacity=".65"/>
+</g>
+<g class="acc-head star" data-part="star">
+  <path d="M356 58 L365 82 L390 84 L371 101 L377 127 L356 114 L335 127 L341 101 L322 84 L347 82 Z" fill="#ffd77a" stroke="#f2b93f" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<g class="acc-head halo" data-part="halo">
+  <ellipse cx="250" cy="18" rx="58" ry="12" fill="none" stroke="#ffd77a" stroke-width="12"/>
+  <circle cx="250" cy="18" r="30" fill="#ffe9a8" opacity=".35"/>
+</g>
+<g class="acc-face glasses" data-part="glasses">
+  <circle cx="205" cy="235" r="30" fill="rgba(255,255,255,.15)" stroke="#a98ad0" stroke-width="6"/>
+  <circle cx="295" cy="235" r="30" fill="rgba(255,255,255,.15)" stroke="#a98ad0" stroke-width="6"/>
+  <path d="M235 233 Q250 227 265 233" fill="none" stroke="#a98ad0" stroke-width="6"/>
+  <path d="M175 230 L142 218 M325 230 L358 218" fill="none" stroke="#a98ad0" stroke-width="6" stroke-linecap="round"/>
+</g>
